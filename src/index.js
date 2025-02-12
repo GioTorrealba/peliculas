@@ -5,6 +5,8 @@ import './listenerFiltro';
 import './listenerFiltroGeneros'
 import './listenerBuscar';
 import'./paginacion';
+import'./listenerItems';
+import './listenerPopup';
 
 
 const cargar = async() => {

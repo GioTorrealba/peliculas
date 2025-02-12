@@ -38,4 +38,3 @@ anterior.addEventListener('click', async (e) => {
         }
     }
 });
-
