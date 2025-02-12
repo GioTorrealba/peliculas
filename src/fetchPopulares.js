@@ -1,7 +1,7 @@
 import fetchGeneros from "./fetchGeneros";
 import obtenerGenero from "./obtenerGenero";
 const fetchPopulares = async(filtro = 'movie') => {
-    const tipo = filtro === ' movie' ? 'movie' : 'tv';
+    const tipo = filtro === 'movie' ? 'movie' : 'tv';
 
     const url= `https://api.themoviedb.org/3/${tipo}/popular?api_key=d807ae29fc959d4d07db2420feb8005a&language=es-ES&page=1`;
 
