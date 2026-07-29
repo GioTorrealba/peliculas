@@ -1,0 +1,1 @@
+Aplicación web desarrollada con HTML, Sass y JavaScript que consume la API de The Movie Database (TMDb) para explorar películas y series. Permite consultar contenido popular, filtrar resultados y visualizar información detallada de cada título mediante una interfaz responsive.
